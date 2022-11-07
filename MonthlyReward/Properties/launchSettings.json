@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "MonthlyReward": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "PLAYFAB_DEV_SECRET_KEY": "C6966UEDOADBY8AZ5EI8GTCIZGR6GG8F8N58Z9GYCD13GIW3R1",
+        "PlayFab.TitleId": "2A09E"
+      }
+    }
+  }
+}
